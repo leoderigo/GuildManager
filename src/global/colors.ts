@@ -1,8 +1,10 @@
 export const COLORS = {
     dark: {
-        defaultIcon: '#ffffff'
+        primary: '#000000',
+        secondary: '#ffffff'
     },
     light: {
-        defaultIcon: '#000000'
+        primary: '#ffffff',
+        secondary: '#000000'
     }
 }
